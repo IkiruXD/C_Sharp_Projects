@@ -1,0 +1,10 @@
+D:\Шарага_С#\Calculator_Date\Calculator_Date\bin\Debug\Calculator_Date.exe.config
+D:\Шарага_С#\Calculator_Date\Calculator_Date\bin\Debug\Calculator_Date.exe
+D:\Шарага_С#\Calculator_Date\Calculator_Date\bin\Debug\Calculator_Date.pdb
+D:\Шарага_С#\Calculator_Date\Calculator_Date\obj\Debug\Calculator_Date.csprojAssemblyReference.cache
+D:\Шарага_С#\Calculator_Date\Calculator_Date\obj\Debug\Calculator_Date.Form1.resources
+D:\Шарага_С#\Calculator_Date\Calculator_Date\obj\Debug\Calculator_Date.Properties.Resources.resources
+D:\Шарага_С#\Calculator_Date\Calculator_Date\obj\Debug\Calculator_Date.csproj.GenerateResource.cache
+D:\Шарага_С#\Calculator_Date\Calculator_Date\obj\Debug\Calculator_Date.csproj.CoreCompileInputs.cache
+D:\Шарага_С#\Calculator_Date\Calculator_Date\obj\Debug\Calculator_Date.exe
+D:\Шарага_С#\Calculator_Date\Calculator_Date\obj\Debug\Calculator_Date.pdb
